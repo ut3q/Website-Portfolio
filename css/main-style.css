@@ -281,8 +281,9 @@ h1,h2,h3,h4,h5
         color: #ffffff;
         font-weight: bold;
         display: block;
+        font-size: 93%;
         padding-top: 10px;
-        padding-bottom: 6px;
+        padding-bottom: 9px;
     }
 #about p
     {
