@@ -255,7 +255,7 @@ h1,h2,h3,h4,h5
 /* start about */
 #about h2
     {
-        padding-bottom: 8px;
+        padding-bottom: 20px;
     }
 #about h4
     {
@@ -283,6 +283,10 @@ h1,h2,h3,h4,h5
         display: block;
         padding-top: 10px;
         padding-bottom: 6px;
+    }
+#about p
+    {
+        padding-top: 5px;
     }
 #about small
     {
@@ -348,7 +352,6 @@ h1,h2,h3,h4,h5
     {
 		font-weight: bold;
         padding-bottom: 20px;
-        margin-left: 120px;
 		color: #ffffff;
     }
 #contact .fa
@@ -362,7 +365,6 @@ h1,h2,h3,h4,h5
         text-align: center;
         margin-right: 20px;
         margin-bottom: 4px;
-        margin-left: 120px;
         margin-top: 4px;
     }
 #contact .fa-brands
@@ -376,7 +378,6 @@ h1,h2,h3,h4,h5
         text-align: center;
         margin-right: 20px;
         margin-bottom: 4px;
-        margin-left: 120px;
         margin-top: 4px;
     }
 /* end contact */
